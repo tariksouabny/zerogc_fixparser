@@ -1,4 +1,5 @@
 # Zero-GC FIX Parser
+[![](https://jitpack.io/v/tariksouabny/zerogc_fixparser.svg)](https://jitpack.io/#tariksouabny/zerogc_fixparser)
 
 A high-performance, zero-allocation Financial Information eXchange (FIX) protocol parser written in Java. Designed for low-latency trading systems where garbage collection (GC) pauses are unacceptable.
 
