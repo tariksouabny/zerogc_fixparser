@@ -26,7 +26,7 @@ FixParserBenchmark.testParser      thrpt    5  19552038.614 ±  2506563.591  ops
 ```
 This is tested on standard hardware w/ single-threaded throughput
 
-## 🛠️ Usage
+## Usage
 To use this, you can initialize the parser once as you start up your book/application to pre-allocate memory.
 
 ```java
@@ -42,7 +42,7 @@ if (parser.isValid()) {
 }
 ```
 
-## 🏗️ Building and Testing
+## Building and Testing
 This project uses Maven build/lifecycles.
 
 **Run the unit tests, JUnit 5:**
